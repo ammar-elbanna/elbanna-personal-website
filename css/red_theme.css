@@ -1,0 +1,52 @@
+
+@media (max-width: 767px){
+    .nav {
+    background-color:#786a67;
+}
+}
+.navbar-default {
+    background-color: #4c3835bf;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #b9adad
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a
+ {
+    color: #dcd5d5;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #f7f3f3;
+}
+.dropdown-menu {background-color: #847675}
+
+.dropdown-menu > li > a {
+    color: #ddd5d5;
+}
+.about span{color: #b9b1ad}
+.testimonials .carousel-indicators .active {
+    border: 3px solid #4b3935;
+}
+.subscribe .btn-lg,
+.contact-us button{
+    background-color: #4b3a35;
+}
+
+.ult-footer span{color: #191212}
+
+.theme{
+	background-color: #4c3835bf;
+}
+
+.theme .colors .icon{
+    color: #c3c3c3;
+    background-color: #130e0ebf;
+}
+.overlay{
+    background-color: rgba(16, 13, 12, 0.84);
+}
+
+
+
